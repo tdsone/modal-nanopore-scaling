@@ -172,3 +172,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+alignment_JS599_20190205_porechopped_filtered_canuCorrected_distinguished.bed
+alignment_JS610_20190307_porechopped_filtered_canuCorrected_distinguished.bed
+genomes_JS610_ERCC92.genome
+JS610.minus.bg
+JS610.minus.bw
+JS610.minus.RPM.bedGraph
+JS610.noERCC.sizes
+JS610.plus.bg
+JS610.plus.bw
+JS610.plus.RPM.bedGraph
+renaming/minus/JS610.minus.renamed.bg
+renaming/minus/JS610.minus.renamed.bw
+renaming/plus/JS610.plus.renamed.bg
+renaming/plus/JS610.plus.renamed.bw
+renaming/JS610.noERCC.NC.sizes
+renaming/JS610.noERCC.roman.sizes

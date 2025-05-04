@@ -1,0 +1,1 @@
+grep -v '^ERCC-' genomes_JS610_ERCC92.genome > JS610.noERCC.sizes
